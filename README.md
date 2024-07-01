@@ -7,3 +7,5 @@ https://javascript.info/
 https://wesbos.com/javascript
 
 https://javascript30.com/
+
+https://beginnerjavascript.com/
